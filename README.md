@@ -1,5 +1,5 @@
 # React Boilerplate
-React boilerplate supports **TailwindCSS**, **Bootstrap**, **react-redux**, **react-router-dom**, **i18next** and **socket.io-client**,
+React boilerplate supports **TailwindCSS**, **Bootstrap**, **React Redux**, **React Router**, **React i18next** and **Socket.Io Client**,
 Simple and fast everything is already in place, un-comment and get to work.
 
 ## Technologies
@@ -32,4 +32,4 @@ Simple and fast everything is already in place, un-comment and get to work.
 
 
 ## Icons
-### React HeroIcons ([Documentation](https://github.com/tailwindlabs/heroicons)) ([consult list of icons](https://heroicons.com/))
+### React HeroIcons: [Documentation](https://github.com/tailwindlabs/heroicons) | [Icons](https://heroicons.com/)
